@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/deploy-64649e38ebed970f6313aae9"
+		},
+		{
+			"path": "../../Downloads/deploy-64649ac6b3adf20aeb8e2f47"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Paaword_file"
+	}
+}
